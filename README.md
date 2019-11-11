@@ -1,5 +1,5 @@
-###JAVASCRIPT
-**The_Best_Duo
+###JAVASCRIPT###
+**The_Best_Duo**
 
 
 **Miembros del grupo:**
