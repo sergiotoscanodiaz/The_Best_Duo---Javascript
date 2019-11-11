@@ -1,18 +1,18 @@
-#JAVASCRIPT
-The_Best_Duo
+###JAVASCRIPT
+**The_Best_Duo
 
 
-Miembros del grupo:
+**Miembros del grupo:
 
 - Sergio Toscano Díaz
 - Rodrigo López Ramos
 
 
-Lenguaje:
+**Lenguaje:
 Javascript
 
 
-Información sobre el lenguaje:
+**Información sobre el lenguaje:
 
 En el año 1995, se lanza LiveScript por Brendan Eich, el cual, luego, por temas de marketing, es nombrado JavaScript. 
 La idea de crear este lenguaje de programación surgió con la finalidad de solucionar un problema que existía con las complejas aplicaciones web y la navegación lenta y utilizar un lenguaje que se ejecutará en el navegador de cada usuario.
@@ -31,7 +31,7 @@ Las principales ventajas son:
 
 
 
-Software instalado:
+**Software instalado:**
 NetBeans IDE
 
 Ejercicios:
