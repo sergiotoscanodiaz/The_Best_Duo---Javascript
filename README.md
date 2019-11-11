@@ -1,4 +1,4 @@
-JAVASCRIPT
+#JAVASCRIPT
 The_Best_Duo
 
 
@@ -53,15 +53,6 @@ Realiza un programa que rellene un array (o una estructura similar) con 20 núme
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 
-## Presentación de resultados
 
-Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
 
-## Recompensa
-
-* Todos los alumnos que realicen correctamente la actividad tendrán 0'25 puntos extra en la nota del trimestre.
-
-* Los miembros del equipo más votado ganarán un premio.
-
-:star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).
 
