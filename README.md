@@ -33,7 +33,8 @@ Las principales ventajas son:
 
 
 **Software instalado:**
-NetBeans IDE
+NetBeans IDE 
+(En esta página se puede instalar este entorno: https://netbeans.apache.org/download/index.html)
 
 Ejercicios:
 
