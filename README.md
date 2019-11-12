@@ -41,7 +41,7 @@ Ejercicios:
 
 ### 1. ¡Hola mundo!
 
-Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**. (file:///C:/Users/sergi_cx40klv/OneDrive/Escritorio/Hola_Mundo/Hola_Mundo.html)
 
 ### 2. Pirámide
 
