@@ -39,7 +39,7 @@ Visual Studio Code
 Ejercicios:
 
 
-### 1. ¡Hola mundo!
+### 1. ¡Hola mundo! (https://sergiotoscanodiaz.github.io/The_Best_Duo-Javascript/Hola_Mundo)
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**. 
 
