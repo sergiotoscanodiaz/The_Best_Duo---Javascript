@@ -27,6 +27,8 @@ Las principales ventajas son:
 - Prototipado, debido a que usa prototipos en vez de clases para el uso de herencia.
 - Orientado a objetos.
 - E Interpretado, ya que no se compila para poder ejecutarse.
+
+Bibliografía:
 (https://devcode.la/blog/como-nace-javascript/).
 (https://cuando-se-creo.blogspot.com/2018/03/cuando-se-creo-javascript-de-que-se.html)
 
