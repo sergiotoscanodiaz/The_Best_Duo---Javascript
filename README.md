@@ -45,7 +45,7 @@ Ejercicios:
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**. 
 
 ### 2. Pirámide
-(https://sergiotoscanodiaz.github.io/The_Best_Duo-Javascript/Pirámide/Pirámide.html)
+(https://sergiotoscanodiaz.github.io/The_Best_Duo-Javascript/Pirámide/Piramide.html)
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
