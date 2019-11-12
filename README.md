@@ -33,8 +33,8 @@ Las principales ventajas son:
 
 
 **Software instalado:**
-NetBeans IDE 
-(En esta página se puede instalar este entorno: https://netbeans.apache.org/download/index.html)
+Visual Studio Code
+(En esta página se puede instalar este entorno: https://code.visualstudio.com/download)
 
 Ejercicios:
 
