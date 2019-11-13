@@ -57,6 +57,9 @@ Dada una altura introducida por el usuario, muestra una pirámide a base de aste
 
 Este programa rellena un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestra por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 
+Código:
+![alt text](https://raw.githubusercontent.com/sergiotoscanodiaz/The_Best_Duo-Javascript/master/Array_Aleatorio/captura2.png)
+
 
 
 
