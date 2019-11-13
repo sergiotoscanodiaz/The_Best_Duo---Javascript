@@ -28,7 +28,7 @@ Las principales ventajas son:
 - Orientado a objetos.
 - E Interpretado, ya que no se compila para poder ejecutarse.
 
-Bibliografía:
+**Bibliografía:**
 (https://devcode.la/blog/como-nace-javascript/).
 (https://cuando-se-creo.blogspot.com/2018/03/cuando-se-creo-javascript-de-que-se.html)
 
