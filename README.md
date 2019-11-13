@@ -51,6 +51,8 @@ Muestra un programa por pantalla la frase **¡Hola mundo!**.
 
 Dada una altura introducida por el usuario, muestra una pirámide a base de asteriscos con la altura indicada.
 
+(https://raw.githubusercontent.com/sergiotoscanodiaz/The_Best_Duo-Javascript/master/Pirámide/captura.png)
+
 ### 3. Arrays y números aleatorios
 (https://sergiotoscanodiaz.github.io/The_Best_Duo-Javascript/Array_Aleatorio/Array)
 
