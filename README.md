@@ -45,9 +45,11 @@ Ejercicios:
 (https://sergiotoscanodiaz.github.io/The_Best_Duo-Javascript/Hola_Mundo/Hola_Mundo)
 
 Muestra un programa por pantalla la frase **¡Hola mundo!**. 
+![alt text](https://raw.githubusercontent.com/sergiotoscanodiaz/The_Best_Duo-Javascript/master/Hola_Mundo/captura3.png)
 
 ### 2. Pirámide
 (https://sergiotoscanodiaz.github.io/The_Best_Duo-Javascript/Pirámide/Piramide)
+![alt text](https://raw.githubusercontent.com/sergiotoscanodiaz/The_Best_Duo-Javascript/master/Pirámide/captura4.png)
 
 Dada una altura introducida por el usuario, muestra una pirámide a base de asteriscos con la altura indicada.
 ![alt text](https://raw.githubusercontent.com/sergiotoscanodiaz/The_Best_Duo-Javascript/master/Pirámide/captura.png)
